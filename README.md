@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShabanNamatsi
 - 👀 I’m interested in Programming and Data Analysis
 - 🌱 I’m currently learning Big Data Analytics and Machine Learning
-- 💞️ I’m looking to collaborate on Big Data Analytics and Machine Learning
+- 💞️ I’m looking forward for collaborations on Big Data Analytics and Machine Learning
 - 📫 How to reach me shanams81@gmail.com
 
 <!---
